@@ -1,2 +1,3 @@
  test de
-contribution sur GtHb
+contribution sur GitHub
+Github est un outil qui permet de travailler à plusieurs sur un même projet
